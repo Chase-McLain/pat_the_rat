@@ -8,8 +8,7 @@
 
 main {
   flex-grow: 1;
-  display: flex;
-  flex-direction: column;
+
 }
 
 #pop-toast-container {
@@ -17,4 +16,11 @@ main {
   flex-direction: column;
   justify-content: start;
   align-items: end;
+}
+
+
+body {
+  background-image: url(https://img.goodfon.com/wallpaper/big/e/3a/gory-u-podnozhiya-pustyr.webp);
+  background-position: center;
+  background-size: cover;
 }
